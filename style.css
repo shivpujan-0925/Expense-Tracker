@@ -142,7 +142,7 @@
        border-radius: 4px;
    }
 #transaction-list::-webkit-scrollbar-thumb{
-      background-color: blue;
+      background-color: rgba(0, 191, 255, 0.603);
       border-radius: 4px;
 
 }
